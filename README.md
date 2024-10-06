@@ -36,27 +36,27 @@ Abaixo estão os membros da equipe, juntamente com seus ícones e links para os 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <a href="https://github.com/Dandanp3" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #ffffff; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/0c017e2d-511d-420d-8f38-07b27db16b68" alt="Daniel" style="width: 40px; height: 40px; border-radius: 50%; object-fit: cover; margin-right: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-    <span>Daniel</span>
+    <span style="color: #ffffff;">Daniel</span>
   </a>
 
   <a href="https://github.com/Thalyszx" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #ffffff; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/2382707b-c06c-4718-8936-2e4e34285588" alt="Thalys" style="width: 40px; height: 40px; border-radius: 50%; object-fit: cover; margin-right: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-    <span>Thalys</span>
+    <span style="color: #ffffff;">Thalys</span>
   </a>
 
   <a href="https://github.com/mhauuu" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #ffffff; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/f429b45a-d611-4f3a-955d-05b66bae49e0" alt="Mauricio" style="width: 40px; height: 40px; border-radius: 50%; object-fit: cover; margin-right: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-    <span>Mauricio</span>
+    <span style="color: #ffffff;">Mauricio</span>
   </a>
 
   <a href="https://github.com/dvddogera" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #ffffff; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/5f45ab8d-65a2-4d21-bae3-6467725521c8" alt="Deivid" style="width: 40px; height: 40px; border-radius: 50%; object-fit: cover; margin-right: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-    <span>Deivid</span>
+    <span style="color: #ffffff;">Deivid</span>
   </a>
 
   <a href="https://github.com/gusmariz" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: #ffffff; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/0b989035-25c2-41b5-8c5d-a5f809a2babf" alt="Gustavo" style="width: 40px; height: 40px; border-radius: 50%; object-fit: cover; margin-right: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-    <span>Gustavo</span>
+    <span style="color: #ffffff;">Gustavo</span>
   </a>
 </div>
 
