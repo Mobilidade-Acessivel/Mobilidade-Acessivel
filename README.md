@@ -61,3 +61,6 @@ Abaixo estão os membros da equipe, juntamente com seus ícones e links para os 
 </div>
 
 #
+
+Projeto criado na disciplina de design centrado no ser humano e desenvolvido na disciplina de front-end, no segundo período, ministradas pelo Professor Doutor Sávio Silva de Almeida, da Uninassau, em Paulista.
+#
